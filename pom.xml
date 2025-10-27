@@ -12,7 +12,7 @@
         <springframework.version>4.3.1.RELEASE</springframework.version>
         <springsecurity.version>3.2.0.RELEASE</springsecurity.version>
         <springsocial.version>1.1.0.RELEASE</springsocial.version>
-        <jackson.version>2.7.5</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
     </properties>
  
     <dependencies>
